@@ -8,6 +8,10 @@ Little is known about the overall details. Fortunately some parts were rescued f
 
 ![Hal 82 Rückseite](https://github.com/holgerlembke/HAL-82/blob/main/media/hal82rueckseite.jpg?raw=true)
 
+Burried in a basement filled with debris later on a small off suite mini monitor was found. It is call Hal 82 Mini due to its size. By core drilling it could be rescured.
+
+![Hal 82 Mini](https://github.com/holgerlembke/HAL-82/blob/main/media/hal82mini1.jpg?raw=true)
+
 ## Current Use
 
 Challenge for the archaeologists was to keep the processors in an active state. So they developed a monitoring device for the museum.
